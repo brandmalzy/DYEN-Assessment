@@ -28,3 +28,18 @@
 
 ### CSS layout
 - [Fundamental layout comprehension](https://fundamental-layout-comprehension.netlify.app/)
+
+
+## JavaScript — Dynamic client-side scripting
+
+### JavaScript first steps
+- [Silly story generator](https://silly-story-generator-brandmalzy.netlify.app/)
+
+### JavaScript building blocks
+- [Image gallery](https://image-gallery-brandmalzy.netlify.app/)
+
+### Introducing JavaScript objects
+- [Adding features to our bouncing balls demo](adding-features-to-bouncing-balls.netlify.app)
+
+### Asynchronous JavaScript
+- [sequencing animations](https://sequencing-animations.netlify.app/)
